@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nerdtune-music-player/static/css/main.47f0e271.chunk.css",
+    "main.js": "/nerdtune-music-player/static/js/main.64600a49.chunk.js",
+    "main.js.map": "/nerdtune-music-player/static/js/main.64600a49.chunk.js.map",
+    "runtime-main.js": "/nerdtune-music-player/static/js/runtime-main.e490946c.js",
+    "runtime-main.js.map": "/nerdtune-music-player/static/js/runtime-main.e490946c.js.map",
+    "static/js/2.1757d4f9.chunk.js": "/nerdtune-music-player/static/js/2.1757d4f9.chunk.js",
+    "static/js/2.1757d4f9.chunk.js.map": "/nerdtune-music-player/static/js/2.1757d4f9.chunk.js.map",
+    "static/js/3.9067e55c.chunk.js": "/nerdtune-music-player/static/js/3.9067e55c.chunk.js",
+    "static/js/3.9067e55c.chunk.js.map": "/nerdtune-music-player/static/js/3.9067e55c.chunk.js.map",
+    "index.html": "/nerdtune-music-player/index.html",
+    "static/css/main.47f0e271.chunk.css.map": "/nerdtune-music-player/static/css/main.47f0e271.chunk.css.map",
+    "static/js/2.1757d4f9.chunk.js.LICENSE.txt": "/nerdtune-music-player/static/js/2.1757d4f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e490946c.js",
+    "static/js/2.1757d4f9.chunk.js",
+    "static/css/main.47f0e271.chunk.css",
+    "static/js/main.64600a49.chunk.js"
+  ]
+}
